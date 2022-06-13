@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Fahim
 #### I am Currently learn Software Engineering
-![I am Currently learn Software Engineering]https://th.bing.com/th/id/OIP.5Ka4xqiPG2eDOv6d_HLpogHaD_?pid=ImgDet&rs=1
+![I am Currently learn Software Engineering]
 
 I am Software Engineering student in Daffodil International University. 
 
