@@ -7,8 +7,8 @@
  [<img src="https://img.shields.io/badge/fahim1049-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/fahim35-1049) 
  [<img src="https://img.shields.io/badge/fahim1049-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/fahim1049) 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahjalalShohag&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fahim1049&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
  
  <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahjalalShohag&theme=dark&layout=compact&align=right&width=40%)](https://github.com/ShahjalalShohag/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim1049=dark&layout=compact&align=right&width=40%)](https://github.com/ShahjalalShohag/github-readme-stats)
 
