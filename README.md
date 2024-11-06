@@ -1,6 +1,6 @@
 ### My Stacks
-#### Languages: HTML | CSS | JS | PHP | C | C++ | JAVA | Dart
-#### Framework: Spring boot | Flutter | BOOTSTRAP | Laravel
+#### Languages: C | C++ | JAVA 
+#### Framework: Spring boot 
 #### Others: Git | Linux
 ![Bangladesh_240-animated-flag-gifs](https://github.com/fahim1049/Beginner-to-Advance/assets/98411093/1f0eba8f-dfe7-45ce-ac10-56a67ca4cfb6)
 ## My Handles
