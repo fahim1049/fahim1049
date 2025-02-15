@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/a3446c15-d4c8-4b55-a3d0-39fdb7229026)
+![Image](https://github.com/user-attachments/assets/cd662980-b5c1-4127-b6f8-010183049477)
 
 ### My Stacks
 #### Languages: C | C++ | JAVA 
